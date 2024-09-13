@@ -7,6 +7,7 @@ module.exports = {
     extend: {
       colors: {
         'construktiv-primary': '#7544FC',
+        'construktiv-green': '#92C6A7',
       },
     },
   },
