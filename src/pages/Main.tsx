@@ -1,4 +1,4 @@
-import { Nav, Hero, MainContent } from "../components";    
+import { Nav, Hero, MainContent, Weather } from "../components";    
 
 export default function Main() {
     return (
@@ -6,6 +6,7 @@ export default function Main() {
             <Nav /> 
             <Hero />
             <MainContent />
+            <Weather />
         </div>
     )
 }
